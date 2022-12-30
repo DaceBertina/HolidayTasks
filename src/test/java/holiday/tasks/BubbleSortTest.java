@@ -1,6 +1,5 @@
 package holiday.tasks;
 
-import holiday.tasks.BubbleSort;
 import org.junit.Test;
 
 import static org.junit.jupiter.api.Assertions.assertArrayEquals;
